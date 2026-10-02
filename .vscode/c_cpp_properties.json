@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "STM32F446",
+      "includePath": ["${workspaceFolder}/**"],
+      "compilerPath": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.2 Rel1/bin/arm-none-eabi-gcc.exe",
+      "cStandard": "c11",
+      "intelliSenseMode": "gcc-arm"
+    }
+  ],
+  "version": 4
+}
